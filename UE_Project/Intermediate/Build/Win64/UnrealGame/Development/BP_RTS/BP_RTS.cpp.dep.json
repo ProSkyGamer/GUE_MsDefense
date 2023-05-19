@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ueprojects\\bp_rts\\intermediate\\source\\bp_rts.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ueprojects\\bp_rts\\intermediate\\build\\win64\\bp_rts\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\ueprojects\\bp_rts\\intermediate\\build\\win64\\unrealgame\\development\\bp_rts\\definitions.bp_rts.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

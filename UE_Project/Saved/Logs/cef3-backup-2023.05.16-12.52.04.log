@@ -1,0 +1,10 @@
+[0516/152829.360:WARNING:backend_impl.cc(1616)] Messed up entry found.
+[0516/152829.361:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0516/152829.746:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/152829.747:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/152829.747:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/152829.748:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/152829.749:ERROR:entry_impl.cc(998)] Failed to save user data
+[0516/152829.749:ERROR:entry_impl.cc(998)] Failed to save user data
+[0516/152832.330:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0516/153025.428:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

@@ -1,0 +1,29 @@
+[0516/002835.682:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0516/002835.683:ERROR:entry_impl.cc(1075)] No file for c1030004
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:ERROR:entry_impl.cc(1075)] No file for c1030006
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:ERROR:entry_impl.cc(1075)] No file for c103000a
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.684:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.685:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.685:ERROR:entry_impl.cc(1075)] No file for c1030008
+[0516/002835.685:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.685:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.685:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.685:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.685:ERROR:entry_impl.cc(1075)] No file for c103000c
+[0516/002835.687:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.687:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.687:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.687:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002835.688:WARNING:storage_block-inl.h(146)] Failed data load.
+[0516/002838.432:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0516/003033.323:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

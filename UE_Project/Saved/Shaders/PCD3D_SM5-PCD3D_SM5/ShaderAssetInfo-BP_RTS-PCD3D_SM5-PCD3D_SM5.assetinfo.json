@@ -1,0 +1,728 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "280C3D31205D7AD93BF7ACB43C8140CCBC4FEECF",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05ABD5B8476AA77665B45C4BF0B210BC2E437C64",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "263211420E952697D1CB31E7932AE311A46E5C20",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BC63854236D268C38E5A5F0973CECD6DC2A52134",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EE81FBD9FE95D44C24B9756BD933A94640391748",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Interchange/Materials/UnlitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E453B529A8E52404FBC8F7562EB4CAB2566A8C99",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B258BE788B079867EB415F978B0A065F54306A2C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "9C938E3E3B2DE42B356EDBF058A2B2B5D3473F0A",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "A39C227C00317509CE2F063442113947D297286B",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "9F42419BC70CE4C4A443F4212158A4244E6188D5",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/MeshesMaterials/Materials/BlockedMaterial",
+				"/Game/MeshesMaterials/Projectiles/Hotdog/Hotdog_sauce/Hotdog_red",
+				"/Game/MeshesMaterials/Projectiles/Hotdog/Hotdog_sauce/Hotdog_yellow",
+				"/Game/MeshesMaterials/Projectiles/Hotdog/Hotdog/Hotdog_orange",
+				"/Game/MeshesMaterials/Projectiles/Hotdog/Hotdog/Hotdog_red",
+				"/Game/MeshesMaterials/Projectiles/Hotdog/Hotdog_sauce/Hotdog_orange"
+			]
+		},
+		{
+			"ShaderMapHash": "CB23E0267F8CB72EDF33305A9A40F656AA753B1E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "37FFC7007C37BB4B0CC57977CB8041940796F35A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F6B5709D9F1A24144A354506AAB615C2976B38BD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CB0B6C3F9A32D019BDECEDF37A9A5B063EDD1A18",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "7A8E40C6ECA70AD66A8B62DEBC2B11DD0AF97C98",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D930878B7AA254C3A4BCFB995C3B7C736FFDA079",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "7CE2D92FB51010E26803314E33649E45D203F3EF",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F37881664E2C9677F02906C806D24BB07E6B2443",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "529E92D56D543B5C5ED267A9ECC3CF3E8BF9F9FD",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D889280425C1DDB604FA663F36B2D6FE54913168",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "B36D8CEBA49A3E482B9C8D8BCFC737D2A2870F54",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "668965F7137DA90115F6D70B07D5ABCC4CAA3D2D",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3DAE673E88DA93B59EB32F3B096D6F402150C800",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "05D168923B30A1B25289298A647E1C2CF7F27B21",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "2B4D154941EEB6DB4E10FE086FADC26493D83200",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "A831FB279204A8705FFC8E9180F0B046A2C8ADB5",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E483A75441E6D48E8035CE99C6027DFE9F0BD4D3",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5CCE73BBE6D6AEC0629D68485EA6986D6D291DC2",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0366E4033F28651D1BDE952E9D508C27E940EC7B",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "BE8C57ABD353736DAB6A71D521141B15E7EC5108",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "234C9751ECFE1A89D7744576153EB10E7559D2F6",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "F360633163D9D2DD06AC3E562B4E837B0216313C",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "749F0FAB1CB0757C1E2F98788692527CD1B59B4F",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "B5DB0BBB96B45316C37D60FE9130CA0F2913259F",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "60846630B9F55C3F2435A94D76718CA19D984436",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "AF01D2FDEA3FE5505CC9BF837EBA228BD51A759B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "1653C884DBF0E2B1A892279B95FBE2E32D384D03",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "2CD3930912F0C807E22B7760B751C73F37AEE76C",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CDBE0195CCFB16546B0236DC42CF3302A8001F4F",
+			"Assets": [
+				"/DataCharts/Materials/M_Chart"
+			]
+		},
+		{
+			"ShaderMapHash": "F16336959B83EB2B51D2F1C5C5C9FC047EC9569E",
+			"Assets": [
+				"/DataCharts/Materials/M_ChartLine"
+			]
+		},
+		{
+			"ShaderMapHash": "36B51E3B1158BFE7EAED04DEC65C65F14D066B15",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7876050231ABF1B419AD5B1483074D2E36960E70",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "537D2A0E4F7C48BE559CBF086F4654F0F8AE3D61",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "43B77DB30379F93EB79655151D8D656EE220EA23",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Microwave/Microwave_white"
+			]
+		},
+		{
+			"ShaderMapHash": "231347A005BBA69ED433AD2C8604DBBAD81618AE",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Grill/Grill_1/Fire",
+				"/Game/MeshesMaterials/Towers/Fryer/Fryer_black",
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Blue",
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Red",
+				"/Game/MeshesMaterials/Towers/Soda_machine/Soda_red"
+			]
+		},
+		{
+			"ShaderMapHash": "BF407441DC203D4E87DB0ECAFEB10EBA5823524E",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Grill/Grill_1/Grill_black",
+				"/Game/MeshesMaterials/Towers/Grill/Grill_1/Grill_metallic"
+			]
+		},
+		{
+			"ShaderMapHash": "3D45CDD4924D61C70046B7E2BE04AEF2DC449F63",
+			"Assets": [
+				"/Game/MeshesMaterials/Enemies/Soda_guy/Hat_white",
+				"/Game/MeshesMaterials/Enemies/Student/Customer_black",
+				"/Game/MeshesMaterials/Enemies/Mother/Mother_Orange",
+				"/Game/MeshesMaterials/Materials/BaseMaterial",
+				"/Game/MeshesMaterials/Enemies/Mother/Customer_white",
+				"/Game/MeshesMaterials/Enemies/Mother/Mother_pink",
+				"/Game/MeshesMaterials/Enemies/Mother/Customer_black_001",
+				"/Game/MeshesMaterials/Enemies/Mother/Customer_white_001",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/Customer_black",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/Customer_white",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/Hat_black",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/Hat_blue",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/Hat_red",
+				"/Game/MeshesMaterials/Enemies/Student/Customer_white",
+				"/Game/MeshesMaterials/Towers/Cash_register/Cash_base",
+				"/Game/MeshesMaterials/Towers/Cash_register/Cash_white",
+				"/Game/MeshesMaterials/Towers/Fryer/Fryer_red",
+				"/Game/MeshesMaterials/Towers/Microwave/Hotdog_orange",
+				"/Game/MeshesMaterials/Towers/Microwave/Hotdog_red",
+				"/Game/MeshesMaterials/Enemies/Regular_customer/Customer_white",
+				"/Game/MeshesMaterials/Enemies/Student/1_diploma/Customer_black",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/No_hat/Customer_black",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/No_hat/Customer_white",
+				"/Game/MeshesMaterials/Enemies/Regular_customer/Customer_black",
+				"/Game/MeshesMaterials/Enemies/Student/1_diploma/Customer_white",
+				"/Game/MeshesMaterials/Enemies/Student/No_diploma/Customer_black",
+				"/Game/MeshesMaterials/Enemies/Student/No_diploma/Customer_white",
+				"/Game/MeshesMaterials/Towers/Test/French_fry",
+				"/Game/MeshesMaterials/Towers/Test/Fryer_black",
+				"/Game/MeshesMaterials/Towers/Test/Fryer_metallic_web",
+				"/Game/MeshesMaterials/Towers/Test/Fryer_red"
+			]
+		},
+		{
+			"ShaderMapHash": "E65DBA7B801DF889631D92341DE2A63C56D42ADE",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Fryer/French_fry",
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Cone"
+			]
+		},
+		{
+			"ShaderMapHash": "9E093329D2EC4FC720FCBEBF3BEEB272416FAD3B",
+			"Assets": [
+				"/Game/MeshesMaterials/Materials/NotPlacesMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6CAE94C25C24B54063E06C51762225944E05D2DE",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Cream"
+			]
+		},
+		{
+			"ShaderMapHash": "2497815C3F207BD6FF92650034302BDA9F204AB2",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Fryer/Fryer_metallic_web"
+			]
+		},
+		{
+			"ShaderMapHash": "DCDFF06697EB7166D6300EC752A33B378E220E11",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Base",
+				"/Game/MeshesMaterials/Towers/Soda_machine/Base"
+			]
+		},
+		{
+			"ShaderMapHash": "01939630E2CF8363770C67F6C7F47D053E7CADA6",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Base_metallic"
+			]
+		},
+		{
+			"ShaderMapHash": "2E8F1E310125BBE4D17BE1BAF56431B73D6E6689",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Black",
+				"/Game/MeshesMaterials/Towers/Soda_machine/Black"
+			]
+		},
+		{
+			"ShaderMapHash": "23F624C832C039501AAD21EE02D3499510FCF813",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Microwave/Microwave_grey"
+			]
+		},
+		{
+			"ShaderMapHash": "6488029FB629184EF2AD872E453B07A019A70623",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "A6A94C38DDA24005AE24636C6CD9522CAAA8A81A",
+			"Assets": [
+				"/Interchange/Materials/PhongSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "01144EFAE9F134477EFBC9FBE69493FE5D49966C",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "ADB7494FC31B4FA2ED383512C7D134D9B8D92B22",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "69ED4C31A90D8F594522E149E94F510B447842C0",
+			"Assets": [
+				"/DataCharts/Materials/DefaultTextMaterialAlpha"
+			]
+		},
+		{
+			"ShaderMapHash": "0BE318E704D20BBA723E4D4C48B8B6EFC7FCCAFE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "6EB214C02CD5C6194917E8E53DAE34572368CC13",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "18F72F6D4D92A660CD9FD03680715DEDD975AE23",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9278B37F10CEE6FF14C62238C9DE790C0259E586",
+			"Assets": [
+				"/Game/MeshesMaterials/Materials/FloorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EAD0E2AC345C2C2A7E1897DAD54F54A60AB2397A",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Soda_machine/M_Soda_texture_1",
+				"/Game/MeshesMaterials/Towers/Soda_machine/M_Soda_texture_2",
+				"/Game/MeshesMaterials/Towers/Soda_machine/M_Soda_texture_3",
+				"/Game/MeshesMaterials/Towers/Ice_cream_machine/Textured"
+			]
+		},
+		{
+			"ShaderMapHash": "DBC6B73A05BBEA7E36F6589EE44E318DAEB6CAE7",
+			"Assets": [
+				"/Game/MeshesMaterials/Enemies/Soda_guy/M_Soda_guy_texture_1",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/M_Soda_guy_texture_2",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/M_Soda_guy_texture_frozen_1",
+				"/Game/MeshesMaterials/Enemies/Student/Diploma_textured",
+				"/Game/MeshesMaterials/Enemies/Regular_customer/M_Customer_texture_frozen_2",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/M_Soda_guy_texture_frozen_2",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/M_Soda_guy_texture_sauce",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Mother_texture_1",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Mother_texture_2",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Mother_texture_frozen_1",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Mother_texture_frozen_2",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Mother_texture_sauce",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Pizdyuk_texture_1",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Pizdyuk_texture_2",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Pizdyuk_texture_frozen_1",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Pizdyuk_texture_frozen_2",
+				"/Game/MeshesMaterials/Enemies/Mother/M_Pizdyuk_texture_sauce",
+				"/Game/MeshesMaterials/Enemies/Regular_customer/M_Customer_texture_1",
+				"/Game/MeshesMaterials/Enemies/Regular_customer/M_Customer_texture_2",
+				"/Game/MeshesMaterials/Enemies/Regular_customer/M_Customer_texture_frozen_1",
+				"/Game/MeshesMaterials/Enemies/Regular_customer/M_Customer_texture_sauce",
+				"/Game/MeshesMaterials/Enemies/Student/M_Student_texture_1",
+				"/Game/MeshesMaterials/Enemies/Student/M_Student_texture_2",
+				"/Game/MeshesMaterials/Enemies/Student/M_Student_texture_frozen_1",
+				"/Game/MeshesMaterials/Enemies/Student/M_Student_texture_frozen_2",
+				"/Game/MeshesMaterials/Enemies/Student/M_Student_texture_sauce",
+				"/Game/MeshesMaterials/Towers/Cash_register/Cash_textured",
+				"/Game/MeshesMaterials/Towers/Grill/Grill_1/Steak",
+				"/Game/MeshesMaterials/Towers/Microwave/Microwave_black",
+				"/Game/MeshesMaterials/Towers/Soda_machine/Soda_icons_textured",
+				"/Game/MeshesMaterials/Enemies/Soda_guy/No_hat/Hat_guy_textured",
+				"/Game/MeshesMaterials/Enemies/Student/1_diploma/Diploma_textured",
+				"/Game/MeshesMaterials/Enemies/Student/1_diploma/Student_textured",
+				"/Game/MeshesMaterials/Enemies/Student/No_diploma/Student_textured",
+				"/Game/MeshesMaterials/Towers/Test/Fryer_metallic_base"
+			]
+		},
+		{
+			"ShaderMapHash": "5896CF041D679426E0EE417EDA8A3FE19A8A778E",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Fryer/Fryer_metallic_base"
+			]
+		},
+		{
+			"ShaderMapHash": "101C4F0775C073BC3FD7A13BA7FD12D988498587",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Grill/Grill_1/M_Grill_texture_1"
+			]
+		},
+		{
+			"ShaderMapHash": "82910DDCD84C3326A98AEE6246F3EB023BF1DCF7",
+			"Assets": [
+				"/Game/MeshesMaterials/Towers/Microwave/Microwave_textured"
+			]
+		},
+		{
+			"ShaderMapHash": "CC55BD2B0794EDFCD26AFE8EC2C588E831D5209F",
+			"Assets": [
+				"/Game/MeshesMaterials/Materials/BackgroundForImage",
+				"/Game/MeshesMaterials/BackgroundLevel/Material_004",
+				"/Game/MeshesMaterials/BackgroundLevel/Material_003",
+				"/Game/MeshesMaterials/BackgroundLevel/Table_and_chairs/Chair_blue",
+				"/Game/MeshesMaterials/BackgroundLevel/Table_and_chairs/Table_black",
+				"/Game/MeshesMaterials/BackgroundLevel/Table_and_chairs/Table_white",
+				"/Game/MeshesMaterials/BackgroundLevel/Material_002",
+				"/Game/MeshesMaterials/BackgroundLevel/Material_005",
+				"/Game/MeshesMaterials/BackgroundLevel/Material",
+				"/Game/MeshesMaterials/BackgroundLevel/Material_006"
+			]
+		},
+		{
+			"ShaderMapHash": "6205E2FCA2055F1C9B019B543E664CB52CC3A4AE",
+			"Assets": [
+				"/Game/Images/bluemarble_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "76A4C95CFA9A1833962381BE12648E97A9E61AA4",
+			"Assets": [
+				"/Game/MeshesMaterials/BackgroundLevel/Table_and_chairs/Chair_metallic"
+			]
+		},
+		{
+			"ShaderMapHash": "A35A9B0E0C8EF91E1B353BF3E3E6E53D374CA78A",
+			"Assets": [
+				"/Interchange/Materials/LambertSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6EF9212258D9E0D73810169BA7C64FD0979A5D73",
+			"Assets": [
+				"/Interchange/Materials/OrenNayerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "37C6CC9ACB281AECB9745D398DA82557B94856DC",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "D6E270E5B1777BA30BD81D78B0E4E20E4247BC8A",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "095D85F1F0BDB22FFFADAF33CFA0531E6EC009ED",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "1A25B7BC86947130F6F064629AB24FD1B98EF0BE",
+			"Assets": [
+				"/Interchange/Materials/ThinTranslucentMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "43259BCFA169FD9D4F889F493BA5CE066843E88E",
+			"Assets": [
+				"/Interchange/Materials/SubsurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "751AC9EAA08380DACE6631CEFE191EB18755463D",
+			"Assets": [
+				"/Interchange/Materials/SheenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "340A1C08B6B075F5676C22E7CE92667EBC8A53D7",
+			"Assets": [
+				"/Interchange/Materials/PBRSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2759AA8E7D17F89459BBF985A347E04703BC8161",
+			"Assets": [
+				"/Interchange/Materials/ClearCoatMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3AE6A89681D2B6CF1529F94E27EEAD05878015EA",
+			"Assets": [
+				"/Interchange/gltf/M_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D99B1329FF413FB4B1CFE9116C046EFDD0E418CA",
+			"Assets": [
+				"/Interchange/gltf/M_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "73849EFD44207166C835E86BA2DE57070FB71381",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Unlit_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "307CD41354989D3DE6F809303254862D26076E27",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Transmission_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "497FB740F13089DF1B21CD5BA9DA20A9D5643175",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "67DDFE2EC86C278FA90F6DAF2947D428C247ECA0",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "2900CB74B1AAD7604CF2EC0FD211FE40ED28705A",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_Sheen_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "9B34DC9A06274EA474D1DEDE9345A1420EDA9991",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "190EDC9D470421F5CCAF5ACF4E3DC01CEEB18771",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "4785EA3B8A9BCCCA84D6CEBB08299143FD9F452D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "3D64682A40F9DC36B661E8DDFAEAB424C299DA53",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "FA17CFF5FCAFD297149CFF09046979EE5E8377A5",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "EF58B4151996AB4312A1CD45250CBEFEF126A3F2",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "B3F084BE14E58CB4569F69BDE999C030F703CC8B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Translucent_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "A07B4CD6A2D2B0AF78E412FB532DCA3F5079968D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "C44F924CE7C65002CDEF12B517151396F0F58DD8",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "A31F559106695EDDE19FE5D72B793408A9FD38F1",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "65C6C50A97B2EB816E5795ECAEC6AC4A86E52399",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "1E35C2465BB0A4E81EFB1CBCD0AD236740939F97",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "D1CA32C4D8E264A11EB74C7717D00E0AC8CDBA4B",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat_TS"
+			]
+		},
+		{
+			"ShaderMapHash": "B74FF564092B7B50D22FB1E9AA1F1DB542D7EF75",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_MR/MI_Opaque_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "81948FF6CFB1A451ECCD0DDE7E923D711C6123C9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "3C1DE2D43749ADADCA7A63403488449DA91DA651",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances_SG/MI_Opaque"
+			]
+		}
+	]
+}
